@@ -1,13 +1,5 @@
 # Hello there!
 
-## 🎯 PROBLEM SOLVING
-
-- Understanding the Problem
-- Explore Concrete Examples
-- Break It Down
-- Solve/Simplify
-- Look Back & Refactor
-
 
 <!--
 **vigor-13/vigor-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
